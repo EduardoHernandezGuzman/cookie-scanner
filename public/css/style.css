@@ -1,0 +1,43 @@
+.container {
+max-width: 1200px;
+}
+
+.table {
+font-size: 0.9rem;
+}
+
+.spinner-border {
+width: 3rem;
+height: 3rem;
+}
+
+.badge {
+font-size: 0.8rem;
+padding: 0.35em 0.65em;
+}
+
+#summary {
+background-color: #f8f9fa;
+padding: 1rem;
+border-radius: 0.25rem;
+}
+
+.cookie-count {
+font-weight: bold;
+color: #0d6efd;
+}
+
+footer {
+border-top: 1px solid #dee2e6;
+padding-top: 1rem;
+margin-top: 2rem;
+}
+
+footer a {
+color: #0d6efd;
+text-decoration: none;
+}
+
+footer a:hover {
+text-decoration: underline;
+}
